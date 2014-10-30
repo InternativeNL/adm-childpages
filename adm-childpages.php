@@ -2,7 +2,7 @@
 /*
 Plugin Name: Admium - Childpages
 Plugin URI: www.admium.nl
-Description: Display excerpt of childpages
+Description: Display menu of childpages
 Version: 1.0
 Author: Admium
 Author URI: www.admium.nl
